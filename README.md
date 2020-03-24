@@ -5,3 +5,5 @@ Projekt utfört på https://hyperskill.org/. Simpelt Java program för Encryptio
 * Encrypt messages with a numeric key.
 * Read and/or store your data in a file.
 * Possibility to choose a specific encryption algorithm: Ceasar or Unicode
+
+<video src="Encrypt-Decrypt.mp4" width="320" height="200" controls preload></video>
